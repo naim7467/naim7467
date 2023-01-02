@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naim7467
-- 👀 I’m interested in PHP,CSS,Bootstrap,React etc.
+- 👀 I’m interested in Html,Javascript,Python,React etc.
 - 🌱 I’m currently learning CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
